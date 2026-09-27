@@ -1,0 +1,7 @@
+{
+  "name": "ÉduExcellence Nationale - Propulsé par NVIDIA Brev",
+  "description": "Plateforme républicaine de réussite éducative et égalité des chances propulsée par NVIDIA Brev & NIM : tuteur socratique sur GPU, simulateur officiel du BAC et Brevet, mode hors-ligne et observatoire décisionnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
